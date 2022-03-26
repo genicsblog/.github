@@ -2,14 +2,12 @@
 
 Genics Blog is a student run [open source platform](https://github.com/genicsblog) for developers to share technical knowledge.
 
-<a href="https://discord.genicsblog.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://twitter.com/genicsblog"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
 You will generally find us posting high quality relevant content in the niche of software development or programming in general!
 
 > Fun fact: We are a team of high schooler teenagers passionate about programming :P
 
-We have an active community of developers and content writes on our [Discord server](https://discord.genicsblog.com) and [Twitter page](https://twitter.com/genicsblog).
+<a href="https://discord.genicsblog.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://twitter.com/genicsblog"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 [Read more >](https://genicsblog.com/about)
 
