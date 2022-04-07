@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/genicsblog/theme-files/main/assets/images/genicsblog.png" width="100px" align="right" />
 
-Genics Blog is a student run [open source platform](https://github.com/genicsblog) for developers to share technical knowledge.
+Genics Blog is a student-run [open-source platform](https://github.com/genicsblog) for developers to share technical knowledge.
 
-You will generally find us posting high quality relevant content in the niche of software development or programming in general!
+You will generally find us posting high-quality relevant content in the niche of software development or programming in general!
 
 > Fun fact: We are a team of high schooler teenagers passionate about programming :P
 
@@ -19,10 +19,10 @@ There are a lot of ways you can connect with the Genics Community and start [con
 
 Perks of writing at Genics Blog:
 
-- Articles are shared within our community on discord and on twitter for a wider reach. You get special recognition on our discord server for your contributions.
+- Articles are shared within our community on discord and twitter for a wider reach. You get special recognition on our discord server for your contributions.
 - Get access to an inclusive community of passionate developers, with whom you can learn and grow.
-- Connect with some of the best bloggers on the tech community through our discord!
-- Your articles remain your own, so you can publish them at your own blog or website.
+- Connect with some of the best bloggers in the tech community through our discord!
+- Your articles remain your own, so you can publish them on your blog or website.
 - Credibility, as each article is reviewed for quality before being published.
 
 Please checkout our [author documentation](https://docs.genicsblog.com/author) to submit your articles to our publication.
@@ -33,6 +33,6 @@ The posts and content files are managed in the main repository: [genicsblog.com]
 
 The codebase that powers Genics Blog is actively maintained from community contributions.
 
-The platform is built with Jekyll and uses a lot of custom plugins to achieve the reqiured functionality.
+The platform is built with Jekyll and uses a lot of custom plugins to achieve the required functionality.
 
-Head out to our [developer docs](https://docs.genicsblog.com/developer) to learn more about the platform. All the platform related code is managed under [theme-files](https://github.com/genicsblog/theme-files) repo.
+Head out to our [developer docs](https://docs.genicsblog.com/developer) to learn more about the platform. All the platform related code is managed under the [theme-files](https://github.com/genicsblog/theme-files) repo.
